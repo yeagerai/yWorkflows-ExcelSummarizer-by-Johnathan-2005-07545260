@@ -6,6 +6,8 @@ description: The FormulaAnalyzer component is designed to analyze all formulas u
   a thorough explanation for each one. Additionally, it highlights potential issues
   or optimization opportunities within the formulas, helping users to improve their
   workbooks' overall efficiency and effectiveness.
+input-class: FormulaAnalyzerInputDict
 name: FormulaAnalyzer
+output-class: FormulaAnalyzerOutputDict
 parameters:
   report_format: pdf

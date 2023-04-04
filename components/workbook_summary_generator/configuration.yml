@@ -1,0 +1,11 @@
+description: A component that leverages natural language processing (NLP) and machine
+  learning (ML) techniques to create a summary of the input workbook. It analyzes
+  the content, identifies key insights, and generates visual aids such as graphs and
+  charts to improve understanding and facilitate decision-making. The component processes
+  the textual and numerical data, extracts relevant information, and generates the
+  summary based on efficient algorithms and methods.
+name: WorkbookSummaryGenerator
+parameters:
+  nlp_algorithm: bert
+  summary_length: 300
+  visualization_type: bar_chart

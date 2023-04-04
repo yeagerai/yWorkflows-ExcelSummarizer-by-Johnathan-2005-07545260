@@ -1,0 +1,7 @@
+description: The ExcelSummarizer component specializes in processing an Excel workbook
+  file provided by the user, in either .xlsx or .xls format. The component generates
+  a corresponding customized Word document that summarizes the contents of the Excel
+  workbook, inclusive of a detailed analysis of used formulas. The input and output
+  for this component are ExcelInputModel and WordOutputModel, respectively.
+name: ExcelSummarizer
+parameters: {}

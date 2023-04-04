@@ -1,0 +1,7 @@
+description: A component that generates a formal Word document that summarizes the
+  input workbook, includes the formula analysis report, and contains a table of contents
+  and visual aids, allowing the user to customize the format and structure as needed.
+name: WordDocumentGenerator
+parameters:
+  default_format: standard
+  toc_max_depth: 3

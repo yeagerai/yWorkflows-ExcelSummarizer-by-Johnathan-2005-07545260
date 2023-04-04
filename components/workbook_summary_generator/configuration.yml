@@ -4,7 +4,9 @@ description: A component that leverages natural language processing (NLP) and ma
   charts to improve understanding and facilitate decision-making. The component processes
   the textual and numerical data, extracts relevant information, and generates the
   summary based on efficient algorithms and methods.
+input-class: Workbook
 name: WorkbookSummaryGenerator
+output-class: Summary
 parameters:
   nlp_algorithm: bert
   summary_length: 300

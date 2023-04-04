@@ -3,5 +3,7 @@ description: The ExcelSummarizer component specializes in processing an Excel wo
   a corresponding customized Word document that summarizes the contents of the Excel
   workbook, inclusive of a detailed analysis of used formulas. The input and output
   for this component are ExcelInputModel and WordOutputModel, respectively.
+input-class: ExcelInputModel
 name: ExcelSummarizer
+output-class: WordOutputModel
 parameters: {}

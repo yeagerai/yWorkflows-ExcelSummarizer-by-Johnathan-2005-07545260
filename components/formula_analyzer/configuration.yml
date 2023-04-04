@@ -1,0 +1,11 @@
+description: The FormulaAnalyzer component is designed to analyze all formulas used
+  in the input workbook, generating a detailed report outlining their purpose and
+  function. By doing so, it provides users with a comprehensive understanding of how
+  the workbook functions and calculates its results. The component processes each
+  formula in the workbook and breaks it down to its constituent elements, providing
+  a thorough explanation for each one. Additionally, it highlights potential issues
+  or optimization opportunities within the formulas, helping users to improve their
+  workbooks' overall efficiency and effectiveness.
+name: FormulaAnalyzer
+parameters:
+  report_format: pdf
